@@ -1,0 +1,25 @@
+body{
+    background-color: #ffe2b0;
+}
+header {
+    text-align: center;
+}
+ul {
+    list-style-type: none; /* убрать точки у списка */
+    text-align: center; /* выравнивание списка по центру */
+}
+a {
+    color: black;
+    text-decoration: none; /* убрать подчеркивание у списка */
+    font-size: 18px;
+}
+
+.box-1{
+background-color: red;
+margin-bottom: 100px;
+}
+
+.box-2{
+    background-color: blue;
+    margin-top: 40px;
+    }
